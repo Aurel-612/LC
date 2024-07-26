@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="CNews Ⓓ" tvg-logo="https://i.imgur.com/UMRGAHx.png" tvg-id="CNews.fr" group-title="France",CNews Ⓓ
+https://www.dailymotion.com/video/x3b68jn
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="Entertainment",TF1
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="News",FOX News Channel
+https://livenewsplay.com:1936/foxsd/foxsd//chunklist_w1663692644_tkc2VjZW5kdGltZT0xNzIyMDEzMTE3JnNlY2hhc2g9dC1NR05tOFJhSFpQUXo1UlRCMVhGRTd5QnBheG5fWVBWT2VUZWxRUTYwVT0mc2Vjc3RhcnR0aW1lPTE3MjIwMDIzMTc=.m3u8
+#EXTINF:-1 tvg-name="Arte Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Arte_Logo_2017.svg/12px-Arte_Logo_2017.svg.png" tvg-id="ARTEFrench.fr" group-title="France",Arte Ⓖ
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+#EXTINF:-1 tvg-name="C8 Ⓓ" tvg-logo="https://i.imgur.com/LXhXF8l.png" tvg-id="C8.fr" group-title="France",C8 Ⓓ
+https://www.dailymotion.com/video/x5gv5rr
+#EXTINF:-1 tvg-name="NRJ 12" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/NRJ_12_logo_2015.svg/757px-NRJ_12_logo_2015.svg.png" tvg-id="NRJ12.fr" group-title="France",NRJ 12
+https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
+#EXTINF:-1 tvg-name="LCP" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6a/Logo_LCP-AN_-_Public_S%C3%A9nat_%282019%29.svg/53px-Logo_LCP-AN_-_Public_S%C3%A9nat_%282019%29.svg.png" tvg-id="LCP.fr" group-title="France",LCP
+https://www.dailymotion.com/video/xgepjr
+#EXTINF:-1 tvg-name="Public Sénat" tvg-logo="https://i.imgur.com/bJOdFT1.png" tvg-id="PublicSenat.fr" group-title="France",Public Sénat
+https://www.dailymotion.com/video/xkxbzc
+#EXTINF:-1 tvg-name="franceinfo: Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Franceinfo.svg/640px-Franceinfo.svg.png" tvg-id="Franceinfo.fr" group-title="France",franceinfo: Ⓨ
+https://www.youtube.com/c/franceinfo/live
+#EXTINF:-1 tvg-name="France 24 Ⓨ" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-id="France24French.fr" group-title="France",France 24 Ⓨ
+https://www.youtube.com/c/FRANCE24/live
+#EXTINF:-1 tvg-name="L'Équipe ⒹⒼ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/L%27%C3%89quipe_wordmark.svg/640px-L%27%C3%89quipe_wordmark.svg.png" tvg-id="LEquipe.fr" group-title="France",L'Équipe ⒹⒼ
+https://www.dailymotion.com/video/x2lefik
+#EXTINF:-1 tvg-name="France Inter Ⓨ" tvg-logo="https://i.imgur.com/d9Ncl8m.png" tvg-id="FranceInter.fr" group-title="France",France Inter Ⓨ
+https://www.youtube.com/c/FranceInter/live
+#EXTINF:-1 tvg-id="TF1 HD" tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="Entertainment",TF1 HD
+https://live-tf1-das.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI4OC4xODMuMTU5LjEzMCIsImNtY2QiOiIiLCJleHAiOjE3MjIwMTYzOTUsImdpZCI6IjFlMjkyZDZlOGQxMTQ4NzI5OTBlODkyZWRkZGE2YzgwIiwiaWF0IjoxNzIyMDAxOTk1LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxL2RmZTM2ZjkwOTY0OTQ3MTI5OTAyYjg0MmI4M2U2NWI0Iiwic3ViIjoiMWUyOTJkNmU4ZDExNDg3Mjk5MGU4OTJlZGRkYTZjODAifQ.Dk2w9p96UeNEj5MRddHR9G3RVXlu9K8gohMvxHm_MkE/out/v1/dfe36f90964947129902b842b83e65b4/index.mpd
+#EXTINF:-1 tvg-id="KTV.kr" tvg-logo="https://i.ibb.co/WkrLDJW/Screenshot-20230714-135036-removebg-preview.png" group-title="Legislative",Korea TV (1080p)
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Europe 1" tvg-logo="https://i.imgur.com/UMRGAHx.png" tvg-id="europe1.fr" group-title="France",Europe 1
+https://www.dailymotion.com/video/xqjkfz
