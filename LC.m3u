@@ -1,25 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="CNews" tvg-logo="https://i.imgur.com/UMRGAHx.png" tvg-id="CNews.fr" group-title="France",CNews
+#EXTINF:-1 channel-number="1" tvg-name="CNews" tvg-logo="https://i.imgur.com/UMRGAHx.png" tvg-id="CNews.fr" group-title="France",CNews
 https://live-b.cf.dmcdn.net/sec2(Ano30ICyNQWnmKFZRc-aV_2gRuRTZY9rtwWWv_ROgHPBzOY6a9K4mnsJNxEwC5Vfd4w1KMQ6IRz3ReEHmiHUNfMyjSrYA3-QJ083uR-yuHQ)/dm/3/x3b68jn/d/live-1080@60.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="News",FOX News Channel
+#EXTINF:-1 channel-number="2" tvg-name="TVA" tvg-id="tvaplus.ca" tvg-logo="https://www.tvaplus.ca/_next/static/media/tvaplus-logo.c5f99253.svg" group-title="Legislative",TVA
+https://tvalive-nondai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
+#EXTINF:-1 channel-number="3" tvg-name="FOX News" tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="News",FOX News
 https://livenewsplay.com:1936/foxsd/foxsd//chunklist_w1663692644_tkc2VjZW5kdGltZT0xNzIyMDEzMTE3JnNlY2hhc2g9dC1NR05tOFJhSFpQUXo1UlRCMVhGRTd5QnBheG5fWVBWT2VUZWxRUTYwVT0mc2Vjc3RhcnR0aW1lPTE3MjIwMDIzMTc=.m3u8
-#EXTINF:-1 tvg-name="Arte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Arte_Logo_2017.svg/12px-Arte_Logo_2017.svg.png" tvg-id="ARTEFrench.fr" group-title="France",Arte
-https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
-#EXTINF:-1 tvg-name="C8" tvg-logo="https://i.imgur.com/LXhXF8l.png" tvg-id="C8.fr" group-title="France",C8
-https://live-b.cf.dmcdn.net/sec2(noveolEvIOoGVm6z85sLGJdi1WNV7tz6O8H-OITNjpK3ajSyfh-xum7TOtV5xPZ_iOiVSbHExNNoBQwASffMsy9hFpDIImqDro2DZ_5fOi8)/dm/3/x5gv5rr/d/live-1080@60.m3u8
-#EXTINF:-1 tvg-name="NRJ 12" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/NRJ_12_logo_2015.svg/757px-NRJ_12_logo_2015.svg.png" tvg-id="NRJ12.fr" group-title="France",NRJ 12
-https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
-#EXTINF:-1 tvg-name="Public Sénat" tvg-logo="https://i.imgur.com/bJOdFT1.png" tvg-id="PublicSenat.fr" group-title="France",Public Sénat
-https://live-b.cf.dmcdn.net/sec2(nGRqlzPGniAyov4yUqlskXagCq8TMzYO6A6Fu9ZBQbP0yACe1h1oCOF5PrwXngGvcRqjszK9uz_T-wg9rWkS3iQl-PeonzUe62T0WDnJjGk)/dm/3/xkxbzc/d/live-480.m3u8
-#EXTINF:-1 tvg-name="franceinfo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Franceinfo.svg/640px-Franceinfo.svg.png" tvg-id="Franceinfo.fr" group-title="France",franceinfo
-https://live-b.cf.dmcdn.net/sec2(hVkhUwZJuGQQ-ULsq_NjRw_vq3DVRI58_madK4vkPbNpgjrgHL6gAaGai8xZ6DVlxsQLtLC8uC-Oz0AO98St4HvPaec5EtJTaf4nFzXW3pA)/dm/3/x4rdeu6/d/live-720.m3u8
-#EXTINF:-1 tvg-name="L'Équipe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/L%27%C3%89quipe_wordmark.svg/640px-L%27%C3%89quipe_wordmark.svg.png" tvg-id="LEquipe.fr" group-title="France",L'Équipe
-https://live-b.cf.dmcdn.net/sec2(BFhf-2cU5bhoKeEjjyTq0LlTTaQXUlYG57kDT-J0uhaO2ZPt0wkuraoBbSeJ2bk1oeGEUFNcAYVsRIuJl8Tp3eQZlHlXoumvllFbKJQG8m8)/dm/3/x2lefik/d/live-1080.m3u8
-#EXTINF:-1 tvg-id="TF1 HD" tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="Entertainment",TF1 HD
-https://live-tf1-das.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI4OC4xODMuMTU5LjEzMCIsImNtY2QiOiIiLCJleHAiOjE3MjIwMTYzOTUsImdpZCI6IjFlMjkyZDZlOGQxMTQ4NzI5OTBlODkyZWRkZGE2YzgwIiwiaWF0IjoxNzIyMDAxOTk1LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxL2RmZTM2ZjkwOTY0OTQ3MTI5OTAyYjg0MmI4M2U2NWI0Iiwic3ViIjoiMWUyOTJkNmU4ZDExNDg3Mjk5MGU4OTJlZGRkYTZjODAifQ.Dk2w9p96UeNEj5MRddHR9G3RVXlu9K8gohMvxHm_MkE/out/v1/dfe36f90964947129902b842b83e65b4/index.mpd
-#EXTINF:-1 tvg-id="KTV.kr" tvg-logo="https://i.ibb.co/WkrLDJW/Screenshot-20230714-135036-removebg-preview.png" group-title="Legislative",Korea TV (1080p)
-https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Europe 1" tvg-logo="https://i.imgur.com/UMRGAHx.png" tvg-id="europe1.fr" group-title="France",Europe 1
+#EXTINF:-1 channel-number="4" tvg-name="Europe 1" tvg-logo="https://fr.wikipedia.org/wiki/Europe_1#/media/Fichier:Europe1_FLAT.png" tvg-id="europe1.fr" group-title="France",Europe 1
 https://live-b.cf.dmcdn.net/sec2(pp-nIJgixYcsIPewDypFBA9kT8Yf-APtvacsrzvNzeLDSR6F59JTVCuuBkGZQNowC8w8DRYOH5V8-3sDv2NojTMjvXpYjNYcrzKnspIS6ZA)/dm/3/xqjkfz/d/live-1080@60.m3u8
-#EXTINF:-1 tvg-name="France 2" tvg-logo="https://i.imgur.com/UMRGAHx.png" tvg-id="CNews.fr" group-title="France",France 2
-https://live-ssai-v2.ftven.fr/ZXhwPTE3MjIwMzI2MDJ+YWNsPSUyZip+aG1hYz01MzhmODkwNjZkZTljYjM3MDVmZTgwYzAxZTgzYmEyZjFhN2MwNjA2ODM2Zjc1NDA4NzA0YzY2ODk0ZmYzN2Y5/dai/v1/master/c6f323e65336fbba9ea766d582216fd61ed74452/SSAIFrance2OTTEMTConfiguration/out/v1/3f5d86a548454a27ab9a06078aa68a03/index.m3u8?aws.sessionId=c3299f23-a6d6-465d-85b1-f0ba66b23994&hdnea=exp=1722011602~acl=%2f*~hmac=29762e5a4ad502c7505a5e26f23f661153e486ae7b5433cefb9c2c075f4f8208
+#EXTINF:-1 channel-number="5" tvg-name="Arte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Arte_Logo_2017.svg/12px-Arte_Logo_2017.svg.png" tvg-id="ARTEFrench.fr" group-title="France",Arte
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+#EXTINF:-1 channel-number="6" tvg-name="C8" tvg-logo="https://i.imgur.com/LXhXF8l.png" tvg-id="C8.fr" group-title="France",C8
+https://live-b.cf.dmcdn.net/sec2(noveolEvIOoGVm6z85sLGJdi1WNV7tz6O8H-OITNjpK3ajSyfh-xum7TOtV5xPZ_iOiVSbHExNNoBQwASffMsy9hFpDIImqDro2DZ_5fOi8)/dm/3/x5gv5rr/d/live-1080@60.m3u8
+#EXTINF:-1 channel-number="7" tvg-name="NRJ12" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/NRJ_12_logo_2015.svg/757px-NRJ_12_logo_2015.svg.png" tvg-id="NRJ12.fr" group-title="France",NRJ12
+https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
+#EXTINF:-1 channel-number="8" tvg-name="LCP | Public Sénat" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/0/0b/ChainesParlementaires2016a2019.jpg" tvg-id="PublicSenat.fr" group-title="France",LCP | Public Sénat
+https://live-b.cf.dmcdn.net/sec2(nGRqlzPGniAyov4yUqlskXagCq8TMzYO6A6Fu9ZBQbP0yACe1h1oCOF5PrwXngGvcRqjszK9uz_T-wg9rWkS3iQl-PeonzUe62T0WDnJjGk)/dm/3/xkxbzc/d/live-480.m3u8
+#EXTINF:-1 channel-number="9" tvg-name="L'Équipe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/L%27%C3%89quipe_wordmark.svg/640px-L%27%C3%89quipe_wordmark.svg.png" tvg-id="LEquipe.fr" group-title="France",L'Équipe
+https://live-b.cf.dmcdn.net/sec2(BFhf-2cU5bhoKeEjjyTq0LlTTaQXUlYG57kDT-J0uhaO2ZPt0wkuraoBbSeJ2bk1oeGEUFNcAYVsRIuJl8Tp3eQZlHlXoumvllFbKJQG8m8)/dm/3/x2lefik/d/live-1080.m3u8
+#EXTINF:-1 channel-number="10" tvg-name="franceinfo:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Franceinfo.svg/640px-Franceinfo.svg.png" tvg-id="Franceinfo.fr" group-title="France",franceinfo:
+https://live-b.cf.dmcdn.net/sec2(hVkhUwZJuGQQ-ULsq_NjRw_vq3DVRI58_madK4vkPbNpgjrgHL6gAaGai8xZ6DVlxsQLtLC8uC-Oz0AO98St4HvPaec5EtJTaf4nFzXW3pA)/dm/3/x4rdeu6/d/live-720.m3u8
+#EXTINF:-1 channel-number="11" tvg-name="SBS" tvg-id="sbs.co.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/SBS_Korea_Logo_%28Word_Only%29.svg" group-title="Legislative",SBS
+https://tvlive.sbs.co.kr/sbsch6/sbsch61.stream/playlist.m3u8
