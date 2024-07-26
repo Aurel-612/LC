@@ -21,3 +21,5 @@ https://live-tf1-das.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJj
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Europe 1" tvg-logo="https://i.imgur.com/UMRGAHx.png" tvg-id="europe1.fr" group-title="France",Europe 1
 https://live-b.cf.dmcdn.net/sec2(pp-nIJgixYcsIPewDypFBA9kT8Yf-APtvacsrzvNzeLDSR6F59JTVCuuBkGZQNowC8w8DRYOH5V8-3sDv2NojTMjvXpYjNYcrzKnspIS6ZA)/dm/3/xqjkfz/d/live-1080@60.m3u8
+#EXTINF:-1 tvg-name="France 2" tvg-logo="https://i.imgur.com/UMRGAHx.png" tvg-id="CNews.fr" group-title="France",France 2
+https://live-ssai-v2.ftven.fr/ZXhwPTE3MjIwMzI2MDJ+YWNsPSUyZip+aG1hYz01MzhmODkwNjZkZTljYjM3MDVmZTgwYzAxZTgzYmEyZjFhN2MwNjA2ODM2Zjc1NDA4NzA0YzY2ODk0ZmYzN2Y5/dai/v1/master/c6f323e65336fbba9ea766d582216fd61ed74452/SSAIFrance2OTTEMTConfiguration/out/v1/3f5d86a548454a27ab9a06078aa68a03/index.m3u8?aws.sessionId=c3299f23-a6d6-465d-85b1-f0ba66b23994&hdnea=exp=1722011602~acl=%2f*~hmac=29762e5a4ad502c7505a5e26f23f661153e486ae7b5433cefb9c2c075f4f8208
